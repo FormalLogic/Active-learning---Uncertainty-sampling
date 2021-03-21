@@ -2,7 +2,9 @@
 
 *Active learning* is a specific approach in machine learning where a a model can achieve better performance with a lower amount of training instances (see Figure below). 
 
-![Learning curve](Learning curve.png)
+![Learning curve](https://github.com/FormalLogic/Active-learning---Uncertainty-sampling/blob/main/Learning%20curve.png)
+
+
 
 
 
