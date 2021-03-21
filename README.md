@@ -22,5 +22,5 @@ A quick presentation of the results can be shown in Figure 2. However for a more
 
 
 
-<Center>Figure 2: (a) is a toy data set. (b) a model is trained on randomly sampled instances. (c) a model is trained on "actively learned" instances, creating a more accurate decision boundary</Center> 
+<Center>Figure 2: (a) is a toy data set. (b) Logistic regression is trained on randomly sampled instances (downward triangles). (c) Logistic regression is trained on "actively learned" instances (downward triangles), creating a more accurate decision boundary</Center> 
 
