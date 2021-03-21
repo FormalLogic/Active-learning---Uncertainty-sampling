@@ -16,7 +16,9 @@ A quick presentation of the results can be shown in Figure 2. However for a more
 
 
 
- ![uncertainty sampling](uncertainty sampling.png)
+ ![uncertainty sampling](https://github.com/FormalLogic/Active-learning---Uncertainty-sampling/blob/main/uncertainty%20sampling.png)
+
+
 
 
 
